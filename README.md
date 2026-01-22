@@ -29,5 +29,4 @@ E-Commerce transactional dataset (CSV format)
 1. Clone the repository
 2. Open the `.ipynb` file in Jupyter Notebook
 3. Run cells sequentially
-2. Open the `.ipynb` file in Jupyter Notebook
-3. Run cells sequentially
+
