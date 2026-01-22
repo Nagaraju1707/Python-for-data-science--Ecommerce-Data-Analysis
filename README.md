@@ -1,4 +1,4 @@
-# E-Commerce Data Analysis using Python
+# E-Commerce Revenue Management using Python
 
 ##  Project Overview
 This project focuses on analyzing e-commerce transaction data to extract
