@@ -25,7 +25,7 @@ actionable business insights using Python.
 ##  Dataset
 E-Commerce transactional dataset (CSV format)
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository
 2. Open the `.ipynb` file in Jupyter Notebook
 3. Run cells sequentially
