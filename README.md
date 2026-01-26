@@ -16,6 +16,7 @@ actionable business insights using Python.
 - NumPy
 - Matplotlib
 - Seaborn
+- Jupyter notebook
 
 ##  Key Insights
 - Seasonal patterns in monthly revenue
