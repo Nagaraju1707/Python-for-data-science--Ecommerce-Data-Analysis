@@ -22,11 +22,17 @@ actionable business insights using Python.
 - Region-wise performance comparison
 - Top 10 brands contributing maximum revenue
 
-##  Dataset
-E-Commerce transactional dataset (CSV format)
+##  Dataset overview
+The dataset contains E-commerce product and pricing information, including:
+Product attributes
+Discounted and original prices
+Customer and category-related features
+Irrelevant and non-analytical columns were removed to improve data quality and analysis efficiency.
+
 
 ##  How to Run
 1. Clone the repository
-2. Open the `.ipynb` file in Jupyter Notebook
-3. Run cells sequentially
+2. Install required libraries
+3. Open the `.ipynb` file in Jupyter Notebook
+4. Run cells sequentially
 
